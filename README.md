@@ -7,7 +7,7 @@ cover: /assets/dinosaur.gif
 
 欢迎进入我的世界，此网站将展示有关于我的信息，
 点击查看我的[离线简历](https://Lvbbin.github.io/assets/CV.pdf)
-点击查看我的[离线简历](https://lvbbin.github.io/pages/about/)
+
 # 基本信息
 
 李炜斌，华南师大网络与新媒体（中外联合培养）专业学生，喜欢互联网技术、摄影摄像技术,
@@ -118,8 +118,8 @@ UP 主起航计划是 B 站官方筛选优质视频创作者，通过 B 站官�
 
 
 # 更多关于我的信息：
-如个人联系方式、代表作品、本网站的搭建方法，
-可以在网页左侧进行跳转或进行搜索。
+点击查看我的[我的创作](https://Lvbbin.github.io/assets/CV.pdf)
+点击查看我的[联系方式](https://Lvbbin.github.io/assets/CV.pdf)
 
 
 
