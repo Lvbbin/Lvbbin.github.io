@@ -1,9 +1,12 @@
 ---
-title: About
-author: Tao He
-date: 2022-02-04
+title: 我的创作
+author: Lian.W.Li
+date: 2024-03-09
 category: Jekyll
 layout: post
+cover:/assets/dinosaur.gif
 ---
 
-This is an about page.
+# 我的视频创作
+
+代表作：3D实景合成MMD-寄明月
