@@ -6,10 +6,10 @@ cover: /assets/dinosaur.gif
 ---
 
 欢迎进入我的世界，此网站将展示有关于我的信息，
-查看我的[离线简历](https://Lvbbin.github.io/assets/CV.pdf)
-查看我的[创作作品](https://lvbbin.github.io/pages/acreation/)
-查看我的[联系方式](https://lvbbin.github.io/pages/bcontact/)
-查看本站的[相关信息](https://lvbbin.github.io/pages/cinformation/)
+- 查看我的[离线简历](https://Lvbbin.github.io/assets/CV.pdf)
+- 查看我的[创作作品](https://lvbbin.github.io/pages/acreation/)
+- 查看我的[联系方式](https://lvbbin.github.io/pages/bcontact/)
+- 查看本站的[相关信息](https://lvbbin.github.io/pages/cinformation/)
 #
 # 基本信息
 
