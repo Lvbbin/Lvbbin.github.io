@@ -11,7 +11,7 @@ cover: /assets/dinosaur.gif
 
 代表作：
 - [3D实景合成MMD-寄明月](https://player.bilibili.com/player.html?aid=474434954&bvid=BV1zK411D7HU)
-<img src="https://Lvbbin.github.io/assets/creation/jimingyue.jpg" class="floatpic" width="300" height="200">
+<img src="https://Lvbbin.github.io/assets/creationpic/jimingyue.jpg" class="floatpic" width="300" height="200">
 
 - [恐怖微电影《缚》](https://player.bilibili.com/player.html?aid=1301606004&bvid=BV1yu4m1u7Bu)
 <img src="https://Lvbbin.github.io/assets/creationpic/fu.jpg" class="floatpic" width="300" height="200">
