@@ -15,7 +15,7 @@ cover: /assets/dinosaur.gif
 ### 友情链接
 [<img src="https://shao.fun/images/logo.svg" class="floatpic" width="50" height="50">](https://shao.fun/) - 烧风，华南师范大学软件工程专业，SoCoding 软件协会会长，椰风游戏开发社社长，Manim Kindergarten成员
 
-> ##### TIP将我加入你的友链
+> ### 将我加入你的友链
 ```yaml
 - name: 蓠苇彬彬
 - link: https://Lvbbin.github.io/
