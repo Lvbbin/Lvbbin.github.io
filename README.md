@@ -6,7 +6,10 @@ cover: /assets/dinosaur.gif
 ---
 
 欢迎进入我的世界，此网站将展示有关于我的信息，
-点击查看我的[离线简历](https://Lvbbin.github.io/assets/CV.pdf)
+查看我的[离线简历](https://Lvbbin.github.io/assets/CV.pdf)
+查看我的[创作作品](https://lvbbin.github.io/pages/acreation/)
+查看我的[联系方式](https://lvbbin.github.io/pages/bcontact/)
+查看本站的[相关信息](https://lvbbin.github.io/pages/cinformation/)
 #
 # 基本信息
 
@@ -116,8 +119,4 @@ UP 主起航计划是 B 站官方筛选优质视频创作者，通过 B 站官�
   
 - 兴趣：弓箭、跑步、旅游、ACG、计算机技术、古生物、历史。
 #
-# 更多关于我的信息：
-点击查看我的[我的创作作品](https://lvbbin.github.io/pages/acreation/)
-点击查看我的[联系方式](https://lvbbin.github.io/pages/bcontact/)
-点击查看本站的[相关信息](https://lvbbin.github.io/pages/cinformation/)
 
