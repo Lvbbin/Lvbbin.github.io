@@ -2,6 +2,7 @@
 layout: home
 title: 蓠苇彬彬的个人小站
 permalink: /
+cover: /assets/jekyll-gitbook/dinosaur.gif
 ---
 
 欢迎进入我的世界，以下将呈现我的个人简历，更多信息可以从左侧跳转！
