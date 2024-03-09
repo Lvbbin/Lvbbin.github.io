@@ -4,216 +4,132 @@ title: 蓠苇彬彬的个人小站
 permalink: /
 ---
 
-欢迎进入我的世界！
+欢迎进入我的世界，以下将呈现我的个人简历，更多信息可以从左侧跳转！
 
-## Demo
+## 基本信息
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+李炜斌，华南师大网络与新媒体（中外联合培养）专业学生，喜欢互联网技术、摄影摄像技术
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+绩点3.72/5.0，非线性编辑 95分；图像创意与视觉传达94分；新闻学概论（全英）93分；
+摄影摄像技术93分；新媒体艺术概论93分；Python93分；影视文化创作与鉴赏90分；
 
-## 个人信息
+普华永道ESG市场助理；Anchor Explorer 个人综合成绩第一；多次参与纪录片、宣传片拍摄
 
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. It's quite annoying to repeat such workload and make it hard for people do version
-control via git for when there are generated HTML files to be staged in and out.
+## 实习经历
 
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repo.
+普华永道 - OFS - ESG - You Plus                                   广州，中国
+市场助理（Marketing Assistant ）                             2023.07-2023.08
 
-## How to Get Started
+新媒体运营：
 
-This theme can be used just as other [Jekyll themes][1] and support [remote theme][12],
-see [the official guide][13] as well.
+- 通过新媒体运营矩阵，主要利用“小红书”“微信”等社交媒体平台，进行新媒体文字内容、视频
+  内容、私域社群等运营，与消费者互动，传播品牌信息，回应用户关注和问题，增强品牌在社交
+  媒体上的存在感，将用户从公域引流至私域转化为消费者。
+- 任职期间，小红书发布23篇笔记，月浏览量提高11倍、账号访问量提高13倍、涨粉量提高14倍，
+  连续四周获得“职场观察者”荣誉，超过86.3％的同类作者。
 
-You can introduce this jekyll theme into your own site by either
+行业研究：
 
-- [Fork][3] this repository and add your markdown posts to the `_posts` folder.
-- Use as a remote theme in your [`_config.yml`][14](just like what we do for this
-  site itself),
+- 对潜在的合作客户如“WallStreetTequila”、“Eduknow”进行市场研究，调研其公司创始团队、
+  经营产品线、受众人群，收集定性与定量数据后通过Excel进行数据统计与分析，通过可视化图表
+  进行报告呈现，为决策提供依据。
 
-```yaml
-remote_theme: sighingnow/jekyll-gitbook
-```
+市场公关：
 
-### Deploy Locally with Jekyll Serve
+- 作为嘉宾代表参与“2023桑德兰大学行前会”进行市场推广，与消费者互动，传播品牌信息，维护
+  品牌形象，吸引目标客户；作为受访企业人员，协助组织并参与“中信集团飞鹰计划”参访活动，转化
+  参访学员为目标客户；此外还有粤港澳大湾区人才港企业参访、普华永道Anchor项目等活动跟进与宣传。
+  
+### 项目经历
 
-This theme can be ran locally using Ruby and Gemfiles.
+普华永道 You Plus 特训计划 Anchor Explorer	  	    	    	        广州，中国
+实训生（个人综合成绩第一名;小组第一）								          2023.01-2023.02
 
-[Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) - GitHub
+You Plus 寒假实训项目（Anchor Explorer），由全球十强商业品牌、百年专业服务机构专为大学生定制，
+帮助学生掌握商业核心技能，完成背景提升、职业拓展、搭建优质人脉圈。
 
-## Full-text search
+- 企业战略分析项目(Capstone Project) ：
+  以“任天堂如何更好适应行业大势”为课题总体方向，深入分析任天堂现有“主机带业绩”的商业模式和经营
+  表现存在的问题，分析了行业趋势与索尼、微软等主要竞争者的表现，通过实地调研、数据分析就“任天堂
+  如何于2025增收暖”提出相应未来战略举措建议，主要针对全球游戏细分市场及任天堂游戏开发方面进行
+  深入研究。在18天内完成项目目标，最终向专家组做出展示报告，得到普华永道高管好评。
+  
+- 通过学习Industry insight, Enterprise Insight, Overview of Financial, Data strategy,
+  Understand Annual report等一系列课程，深入了解了行业调研方法、财务管理三大报表分析、企业年报数据
+  整理，掌握了问题识别与结构化分解、调研技巧、方案沟通方法，提高了商业分析、项目管理、商业思维等能力。
 
-The search functionality in jekyll-gitbook theme is powered by the [gitbook-plugin-search-pro][5] plugin and is enabled by default.
 
-[https://sighingnow.github.io/jekyll-gitbook/?q=generated](https://sighingnow.github.io/jekyll-gitbook/?q=generated)
 
-## Code highlight
+Bilibili UP主起航计划第二期                                              线上
+实训生                                                            2022.07-08
+UP 主起航计划是 B 站官方筛选优质视频创作者，通过 B 站官方创作者培训团队、优质 UP 主传授视频创作
+及推广方法论、解析实际视频运营案例培养创作者。
 
-The code highlight style is configurable the following entry in `_config.yaml`:
+- 掌握了平台创作机制、推广传播技巧、视频创作方法，现已通过流量变现、创作激励赚取千元，达成平台播放 
+量百万、单视频 40 万播放的成就，多次获得活动爆款奖、创作奖。
 
-```yaml
-syntax_highlighter_style: colorful
-```
 
-The default code highlight style is `colorful`, the full supported styles can be found from [the rouge repository][6]. Customized
-style can be added to [./assets/gitbook/rouge/](./assets/gitbook/rouge/).
+更多实践项目：
 
-## How to generate TOC
+- 2024.2 至今： 广东省攀登计划省级课题研究；
 
-The jekyll-gitbook theme leverages [jekyll-toc][4] to generate the *Contents* for the page.
-The TOC feature is not enabled by default. To use the TOC feature, modify the TOC
-configuration in `_config.yml`:
+- 2023.9-2024.1： 东莞市老干部大学宣传片拍摄；
+                 佛山市儿童友好城市创建活动宣传片拍摄；
+                 佛山市秋色巡游盆菜宴官方纪录片拍摄；
+  
+- 2023.1-2023.9：普华永道You Plus官方宣传片拍摄；
+                 2023欧莱雅Brandstorm“进击科技美次元”商赛（组长）；
+                 闲鱼电商运营（自创业，六天收入8000）；
+                 名企冬令营-咨询职业体验项目第一期-高顿教育联合弗若斯特沙利文（组长）。
 
-```yaml
-toc:
-    enabled: true
-    h_min: 1
-    h_max: 3
-```
 
-## Google Analytics, etc.
 
+## 荣誉获奖：
+
+- 2023.9-2024.1：华南师大校级单项奖学金；
+                 全国大学生职业规划大赛校市级优胜奖；
+  
+- 2022.9-2023.9：普华永道AnchorVlog最佳人气作品；
+                 B站原神3.3UP主激励计划创作奖1、2、3与爆款奖1、2；
+                 华南师大校级新媒体大赛二等奖。
+
+
+
+## 专业技能
+
+IT技能：
+
+- 基本媒体创作：Adobe Photoshop；Adobe PremiumPro；Adobe LightRoom；Adobe AfterEffect；
+           DaVinci Resolve；NovelAi WebUI
+
+- 3D创作：Miku Miku Dance；Unity 3D（入门）；Blender（入门）
+
+- 语言：Python；C#（入门）
+
+- 其它：Jekyll；GitHub
+
+语言能力：
+
+- 英语，雅思6.0；
+
+- 日语，入门。
+
+
+
+## 简要自我评价：
+
+- 性格：自我思考、好奇探索、突破自己；
+
+- 专长：视频策划及后期创作、摄影摄像及图片处理、市场研究与分析、新媒体运营；
+  
+- 兴趣：弓箭、跑步、旅游、ACG、计算机技术、古生物、历史。
+
+
+
+
+## 更多关于我的信息：
+如个人联系方式、代表作品、本网站的搭建方法，
+可以在网页左侧进行跳转或进行搜索。
 The jekyll-gitboook theme supports embedding the [Google Analytics][7], [CNZZ][8] and [Application Insights][9] website analytical tools with the following
 minimal configuration in `_config.yaml`:
 
-```yaml
-tracker:
-  google_analytics: "<YOUR GOOGLE ANALYTICS KEY, e.g, UA-xxxxxx-x>"
-```
-
-Similarly, CNZZ can be added with the following configuration in `_config.yaml`
-
-```yaml
-tracker:
-  cnzz: "<YOUR CNZZ ANALYTICS KEY, e.g., xxxxxxxx>"
-```
-
-Application Insights can be added with the following configuration in `_config.yaml`
-
-```yaml
-tracker:
-  application_insights: "<YOUR APPLICATION INSIGHTS CONNECTION STRING>"
-```
-
-## Disqus comments
-
-[Disqus](https://disqus.com/) comments can be enabled by adding the following configuration in `_config.yaml`:
-
-```yaml
-disqushandler: "<YOUR DISQUS SHORTNAME>"
-```
-
-## Jekyll collections
-
-Jekyll's [collections][15] is supported to organize the pages in a more fine-grained manner, e.g.,
-
-```yaml
-collections:
-  pages:
-    output: true
-    sort_by: date
-    permalink: /:collection/:year-:month-:day-:title:output_ext
-```
-
-## Extra StyleSheet or Javascript elements
-
-You can add extra CSS or JavaScript references using configuration collections:
-
-- extra_css: for additional style sheets. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
-- extra_header_js: for additional scripts to be included in the `<head>` tag, after the `extra_css` has been added. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
-- extra_footer_js: for additional scripts to be included at the end of the HTML document, just before the site tracking script. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
-
-## Customizing font settings
-
-The fonts can be customized by modifying the `.book.font-family-0` and `.book.font-family-1` entry in [`./assets/gitbook/custom.css`][10],
-
-```css
-.book.font-family-0 {
-    font-family: Georgia, serif;
-}
-.book.font-family-1 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-```
-
-## Tips, Warnings and Dangers blocks
-
-The jekyll-gitbook theme supports customized kramdown attributes (`{: .block-tip }`, `{: .block-warning }`,
-`{: .block-danger }`) like that displayed in [the discord.js website][11]. The marker can be used like
-
-```markdown
-> ##### TIP
->
-> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
-> this or a similar version after installation.
-{: .block-tip }
-```
-
-Rendered page can be previewed from
-
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html)
-
-## Cover image inside pages
-
-The jekyll-gitbook theme supports adding a cover image to a specific page by adding
-a `cover` field to the page metadata:
-
-```diff
-  ---
-  title: Page with cover image
-  author: Tao He
-  date: 2022-05-24
-  category: Jekyll
-  layout: post
-+ cover: /assets/jekyll-gitbook/dinosaur.gif
-  ---
-```
-
-The effect can be previewed from
-
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html)
-
-## Diagrams with mermaid.js
-
-This jekyll-theme supports [mermaid.js](https://mermaid.js.org/) to render diagrams
-in markdown.
-
-To enable the mermaid support, you need to set `mermaid: true` in the front matter
-of your post.
-
-```markdown
----
-mermaid: true
----
-```
-
-The example can be previewed from
-
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2023-08-31-mermaid.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2023-08-31-mermaid.html)
-
-## License
-
-This work is open sourced under the Apache License, Version 2.0.
-
-Copyright 2019 Tao He.
-
-[1]: https://pages.github.com
-[2]: https://pages.github.com/themes
-[3]: https://github.com/sighingnow/jekyll-gitbook/fork
-[4]: https://github.com/allejo/jekyll-toc
-[5]: https://github.com/gitbook-plugins/gitbook-plugin-search-pro
-[6]: https://github.com/rouge-ruby/rouge/tree/master/lib/rouge/themes
-[7]: https://analytics.google.com/analytics/web/
-[8]: https://www.cnzz.com/
-[9]: https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
-[10]: https://github.com/sighingnow/jekyll-gitbook/blob/master/gitbook/custom.css
-[11]: https://discordjs.guide/popular-topics/canvas.html#setting-up-napi-rs-canvas
-[12]: https://rubygems.org/gems/jekyll-remote-theme
-[13]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-[14]: https://github.com/sighingnow/jekyll-gitbook/blob/master/_config.yml
-[15]: https://jekyllrb.com/docs/collections/
