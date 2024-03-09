@@ -23,4 +23,5 @@ cover: /assets/dinosaur.gif
 
 ### 其他信息
 域名注册商 ：烟台帝思普网络科技有限公司；域名类型：New gTLD
+
 备用网站：[http://lvbbin.github.io](http://lvbbin.github.io)；网站正在备案中
