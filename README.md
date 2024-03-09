@@ -8,11 +8,13 @@ permalink: /
 
 # 基本信息
 
+<img src="http:/Lvbbin.github.io/assets/main_protrait.jpg" class="floatpic" width="360" height="432">
+
 李炜斌，华南师大网络与新媒体（中外联合培养）专业学生，喜欢互联网技术、摄影摄像技术
 
 绩点3.72/5.0，非线性编辑 95分；图像创意与视觉传达94分；新闻学概论（全英）93分；摄影摄像技术93分；新媒体艺术概论93分；Python93分；影视文化创作与鉴赏90分；
 
-普华永道ESG市场助理；Anchor Explorer 个人综合成绩第一；多次参与纪录片、宣传片拍摄 <img src="/assets/main_protrait.jpg" class="floatpic" width="360" height="432">
+普华永道ESG市场助理；Anchor Explorer 个人综合成绩第一；多次参与纪录片、宣传片拍摄.
 
 
 
