@@ -2,7 +2,7 @@
 title: 我的创作
 author: Lian.W.Li
 date: 2024-03-09
-category: Jekyll
+category: 我的创作
 layout: post
 cover: /assets/dinosaur.gif
 ---
