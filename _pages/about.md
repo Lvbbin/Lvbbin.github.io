@@ -23,7 +23,7 @@ cover: /assets/dinosaur.gif
 ### 个人旅游照片：
 
 <img src="https://Lvbbin.github.io/assets/lvyoupic/1.png" class="floatpic" width="300" height="200"> <img src="https://Lvbbin.github.io/assets/lvyoupic/2.png" class="floatpic" width="300" height="200"> <img src="https://Lvbbin.github.io/assets/lvyoupic/3.png" class="floatpic" width="300" height="200"> <img src="https://Lvbbin.github.io/assets/lvyoupic/4.png" class="floatpic" width="300" height="200"> <img src="https://Lvbbin.github.io/assets/lvyoupic/5.png" class="floatpic" width="300" height="200"> <img src="https://Lvbbin.github.io/assets/lvyoupic/6.png" class="floatpic" width="300" height="200">
-<img src="https://Lvbbin.github.io/assets/lvyoupic/7.png" class="floatpic" width="300" height="399"> <img src="https://Lvbbin.github.io/assets/lvyoupic/8.png" class="floatpic" width="300" height="399"> <img src="https://Lvbbin.github.io/assets/lvyoupic/9.png" class="floatpic" width="300" height="399">
+<img src="https://Lvbbin.github.io/assets/lvyoupic/7.png" class="floatpic" width="300" height="399"> <img src="https://Lvbbin.github.io/assets/lvyoupic/8.png" class="floatpic" width="300" height="399">
 
 ### 公务活动照片：
 <img src="https://Lvbbin.github.io/assets/workpic/1.png" class="floatpic" width="300" height="200"> <img src="https://Lvbbin.github.io/assets/workpic/2.png" class="floatpic" width="300" height="200"> <img src="https://Lvbbin.github.io/assets/workpic/3.png" class="floatpic" width="300" height="200"> <img src="https://Lvbbin.github.io/assets/workpic/4.png" class="floatpic" width="300" height="200"> <img src="https://Lvbbin.github.io/assets/workpic/5.png" class="floatpic" width="300" height="200"> <img src="https://Lvbbin.github.io/assets/workpic/6.png" class="floatpic" width="300" height="200">
