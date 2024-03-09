@@ -16,7 +16,7 @@ permalink: /
 
 # 实习经历
 
-# 普华永道 - OFS - ESG - You Plus                                   广州，中国
+### 普华永道 - OFS - ESG - You Plus                                   广州，中国
 市场助理（Marketing Assistant ）                             2023.07-2023.08
 
 新媒体运营：
