@@ -119,7 +119,7 @@ UP 主起航计划是 B 站官方筛选优质视频创作者，通过 B 站官�
 
 # 更多关于我的信息：
 点击查看我的[我的创作](https://Lvbbin.github.io/assets/CV.pdf)
-点击查看我的[我的创作](player.bilibili.com/player.html?aid=474434954&bvid=BV1zK411D7HU)
+点击查看我的[我的创作](https://player.bilibili.com/player.html?aid=474434954&bvid=BV1zK411D7HU)
 
 
 
