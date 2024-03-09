@@ -8,6 +8,7 @@ cover: /assets/dinosaur.gif
 ---
 
 ### 本站搭建使用
+- [腾讯云](https://cloud.tencent.com/)
 - [Jekyll](https://jekyll.com/)
 - [GitHub Pages](https://docs.github.com/zh/pages)
 - [Jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook)
@@ -19,3 +20,9 @@ cover: /assets/dinosaur.gif
 - name: 蓠苇彬彬
 - link: https://Lvbbin.github.io/
 - avatar: https://Lvbbin.github.io/logo.jpg/
+
+### 其他信息
+域名注册商 ：烟台帝思普网络科技有限公司
+域名类型：New gTLD
+备用网站：[http://lvbbin.github.io](http://lvbbin.github.io)
+网站正在备案中
