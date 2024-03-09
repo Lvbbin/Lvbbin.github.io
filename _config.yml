@@ -1,6 +1,6 @@
 # Configurations
-title:            李炜斌
-longtitle:        李炜斌
+title:            个人简历
+longtitle:        个人简历
 author:           李炜斌
 email:            lwb.03@foxmail.com
 description: >
@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://Lvbbin.github.io'
+baseurl:          '龙王传说'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
