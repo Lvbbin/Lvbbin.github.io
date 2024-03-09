@@ -9,7 +9,7 @@ cover: /assets/dinosaur.gif
 
 # 基本信息
 
-<img src="http:/Lvbbin.github.io/main_protrait.jpg" class="floatpic" width="360" height="432">
+<img src="http://Lvbbin.github.io/main_protrait.jpg" class="floatpic" width="360" height="432">
 
 李炜斌，华南师大网络与新媒体（中外联合培养）专业学生，喜欢互联网技术、摄影摄像技术
 
