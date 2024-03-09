@@ -21,3 +21,4 @@ cover: /assets/dinosaur.gif
 # 我的摄影作品
 
 旅游照片：
+<img src="https://Lvbbin.github.io/assets/camera/liancang.jpg" class="floatpic" width="500" height="333">
