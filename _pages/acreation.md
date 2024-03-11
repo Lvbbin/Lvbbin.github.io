@@ -37,4 +37,4 @@ cover: /assets/dinosaur.gif
 <img src="https://Lvbbin.github.io/assets/workpic/1.png" class="floatpic" width="300" height="200"> <img src="https://Lvbbin.github.io/assets/workpic/2.png" class="floatpic" width="300" height="200"> <img src="https://Lvbbin.github.io/assets/workpic/3.png" class="floatpic" width="300" height="200"> <img src="https://Lvbbin.github.io/assets/workpic/4.png" class="floatpic" width="300" height="200"> <img src="https://Lvbbin.github.io/assets/workpic/5.png" class="floatpic" width="300" height="200"> <img src="https://Lvbbin.github.io/assets/workpic/6.png" class="floatpic" width="300" height="200">
 
 # 我的3D建模作品
-[<img src="https://Lvbbin.github.io/assets/blender/coffeechair.png" class="floatpic" width="675" height="500">]()
+[<img src="https://Lvbbin.github.io/assets/blender/coffechair.png" class="floatpic" width="675" height="500">](https://Lvbbin.github.io/assets/Blender/coffechair.blend)
