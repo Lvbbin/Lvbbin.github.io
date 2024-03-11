@@ -9,5 +9,6 @@ cover: /assets/dinosaur.gif
 
 个人邮箱：lwb.03@foxmail.com
 
-B站账号:[space.bilibili.com/40121113](https://space.bilibili.com/40121113)
+B站账号: [space.bilibili.com/40121113](https://space.bilibili.com/40121113)
 
+GitHub账号：[https://github.com/Lvbbin](https://github.com/Lvbbin)
