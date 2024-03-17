@@ -4,7 +4,7 @@ author: 李炜斌
 date: 2024-03-09
 category: 
 layout: post
-cover: /assets/dinosaur.gif
+cover: https://s2.loli.net/2024/03/17/2ek7rng6MpWhFdE.gif
 ---
 
 个人邮箱：lwb.03@foxmail.com
