@@ -4,7 +4,7 @@ author: 李炜斌
 date: 2024-03-09
 category: 
 layout: post
-cover: https://s2.loli.net/2024/03/17/2ek7rng6MpWhFdE.gif
+cover: https://vip.helloimg.com/i/2024/03/17/65f711291f3b3.gif
 ---
 
 个人邮箱：lwb.03@foxmail.com
