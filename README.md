@@ -2,7 +2,7 @@
 layout: home
 title: 蓠苇彬彬的个人小站
 permalink: /
-cover: /assets/dinosaur.gif
+cover: https://s2.loli.net/2024/03/17/2ek7rng6MpWhFdE.gif
 ---
 
 欢迎进入我的世界，此网站将展示有关于我的信息，
@@ -17,7 +17,7 @@ cover: /assets/dinosaur.gif
 
 普华永道ESG市场助理；Anchor Explorer 个人综合成绩第一；多次参与纪录片、宣传片拍摄。
 
-<img src="http://m.qpic.cn/psc?/V14drY4d2vzhRq/ruAMsa53pVQWN7FLK88i5tqvL0j6*dANSRy.BnizSxA4fBT47L0sVS*0ASa5FEa.ls3WC9xNCqT.JuahxDy5o2ovMHbiX33zLRIkuM5uImg!/b&bo=OAQUBQAAAAABFx0!&rf=viewer_4" class="floatpic" width="240" height="288">
+<img src="https://s2.loli.net/2024/03/17/hoXDCekYIl4zxvi.jpg" class="floatpic" width="240" height="288">
 
 # 教育背景
 ### 华南师范大学                                                           全日制本科
