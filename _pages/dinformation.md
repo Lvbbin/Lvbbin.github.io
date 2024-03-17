@@ -22,6 +22,9 @@ cover: /assets/dinosaur.gif
 - avatar: https://Lvbbin.github.io/logo.jpg/
 
 ### 其他信息
-域名注册商 ：烟台帝思普网络科技有限公司；域名类型：New gTLD
+##### 更新日志：
+- 2024.03.17 将图片资源从GitHub转移至第三方服务器储存，提高载入速度；
+- 2024.03.09 网站搭建完成；网站正式上线；域名完成注册。
 
-备用网站：[http://lvbbin.github.io](http://lvbbin.github.io)；网站正在备案中
+##### 备用网站：
+- [http://lvbbin.github.io](http://lvbbin.github.io)
