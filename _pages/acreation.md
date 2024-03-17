@@ -4,7 +4,7 @@ author: 李炜斌
 date: 2024-03-09
 category: 我的创作
 layout: post
-cover: https://s2.loli.net/2024/03/17/2ek7rng6MpWhFdE.gif
+cover: https://vip.helloimg.com/i/2024/03/17/65f711291f3b3.gif
 ---
 
 # 我的视频创作
@@ -12,10 +12,10 @@ cover: https://s2.loli.net/2024/03/17/2ek7rng6MpWhFdE.gif
 代表作：
 
 - [3D实景合成MMD-寄明月](https://player.bilibili.com/player.html?aid=474434954&bvid=BV1zK411D7HU)
-<img src="https://s2.loli.net/2024/03/17/Eva25qDXjOU1Yyn.jpg" class="floatpic" width="300" height="200">
+<img src="https://vip.helloimg.com/i/2024/03/17/65f710c78a324.jpg" class="floatpic" width="300" height="200">
 
 - [恐怖微电影《缚》](https://player.bilibili.com/player.html?aid=1301606004&bvid=BV1yu4m1u7Bu)
-<img src="https://s2.loli.net/2024/03/17/KtSwLpT21xaoCAh.jpg" class="floatpic" width="300" height="200">
+<img src="https://vip.helloimg.com/i/2024/03/17/65f710c757ed2.jpg" class="floatpic" width="300" height="200">
 
 其它作品：
 - [删减版纪录片《秋色巡游·盆菜宴》](https://player.bilibili.com/player.html?aid=1451540146)
@@ -31,12 +31,12 @@ cover: https://s2.loli.net/2024/03/17/2ek7rng6MpWhFdE.gif
 
 ### 个人旅游照片
 
-<img src="https://s2.loli.net/2024/03/17/NzCOswjeVYch5Po.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/42dpWxwEvhU7Jyi.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/Y9KGaVLN6tIQyrB.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/7wa2nkuHA8VfhXB.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/yEQc1txNiUwjRhZ.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/9HjW4gvEsdw2fDZ.png" class="floatpic" width="300" height="200">
-<img src="https://s2.loli.net/2024/03/17/ZjJkhVqlbLw5HGE.png" width="300" height="399"> <img src="https://s2.loli.net/2024/03/17/S1KjU8lxzd2gntA.png" class="floatpic" width="300" height="399">
+<img src="https://vip.helloimg.com/i/2024/03/17/65f70f84f262c.png" class="floatpic" width="300" height="200"> <img src="https://vip.helloimg.com/i/2024/03/17/65f70f855604d.png" class="floatpic" width="300" height="200"> <img src="https://vip.helloimg.com/i/2024/03/17/65f70f848216e.png" class="floatpic" width="300" height="200"> <img src="https://vip.helloimg.com/i/2024/03/17/65f70f856fc94.png" class="floatpic" width="300" height="200"> <img src="https://vip.helloimg.com/i/2024/03/17/65f70f85103aa.png" class="floatpic" width="300" height="200"> <img src="https://vip.helloimg.com/i/2024/03/17/65f70f8558e76.png" class="floatpic" width="300" height="200">
+<img src="https://vip.helloimg.com/i/2024/03/17/65f70f83d3438.png" width="300" height="399"> <img src="https://vip.helloimg.com/i/2024/03/17/65f70f83cbc9c.png" class="floatpic" width="300" height="399">
 
 ### 公务活动照片
-<img src="https://s2.loli.net/2024/03/17/U75LjX9zCMRTayk.png" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/DrWhg2jGIozUMOm.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/FXTZ9B3li4pPQwq.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/fCtxaeIdSRAhY8l.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/inQhYdJL7qsMfZV.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/dNOnMgtayjcYAuX.png" class="floatpic" width="300" height="200">
+<img src="https://vip.helloimg.com/i/2024/03/17/65f7104e75afa.png" width="300" height="200"> <img src="https://vip.helloimg.com/i/2024/03/17/65f7104e34a5e.png" class="floatpic" width="300" height="200"> <img src="https://vip.helloimg.com/i/2024/03/17/65f7105015d3f.png" class="floatpic" width="300" height="200"> <img src="https://vip.helloimg.com/i/2024/03/17/65f7104dcdb9d.png" class="floatpic" width="300" height="200"> <img src="https://vip.helloimg.com/i/2024/03/17/65f7104e86c6d.png" class="floatpic" width="300" height="200"> <img src="https://vip.helloimg.com/i/2024/03/17/65f7104e102a9.png" class="floatpic" width="300" height="200">
 
 # 我的3D建模作品
-<img src="https://s2.loli.net/2024/03/17/nxM94EQiGYI6pOC.png" class="floatpic" width="675" height="500"> 
- [点击下载工程文件](https://Lvbbin.github.io/assets/Blender/coffechair.blend)
+<img src="https://vip.helloimg.com/i/2024/03/17/65f710c96eff2.png" class="floatpic" width="675" height="500"> 
+- [点击下载工程文件](https://Lvbbin.github.io/assets/Blender/coffechair.blend)
