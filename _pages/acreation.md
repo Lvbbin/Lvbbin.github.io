@@ -12,10 +12,10 @@ cover: /assets/dinosaur.gif
 代表作：
 
 - [3D实景合成MMD-寄明月](https://player.bilibili.com/player.html?aid=474434954&bvid=BV1zK411D7HU)
-<img src="https://Lvbbin.github.io/assets/creationpic/jimingyue.jpg" class="floatpic" width="300" height="200">
+<img src="http://m.qpic.cn/psc?/V14drY4d2vzhRq/ruAMsa53pVQWN7FLK88i5tqvL0j6*dANSRy.BnizSxBid8GJv.Ugsxdp01mnlmj5sl5MkRDG5gF7.gQTYJFukPGiDn8pxxhi7kWRo37CEcs!/b&bo=wAY4BAAAAAABF8o!&rf=viewer_4" class="floatpic" width="300" height="200">
 
 - [恐怖微电影《缚》](https://player.bilibili.com/player.html?aid=1301606004&bvid=BV1yu4m1u7Bu)
-<img src="https://Lvbbin.github.io/assets/creationpic/fu.jpg" class="floatpic" width="300" height="200">
+<img src="http://a1.qpic.cn/psc?/V14drY4d2vzhRq/ruAMsa53pVQWN7FLK88i5tqvL0j6*dANSRy.BnizSxAiVEkNMRqtKIAHc3uDJ92J0.Ds4NDu1GPJhaDy.a3KQGYkIwqpvYm7SXpn6GhTSSw!/c&ek=1&kp=1&pt=0&bo=oAU4BAAAAAABF6k!&tl=3&vuin=2481487445&tm=1710684000&dis_t=1710685835&dis_k=eda34c056e9c4929c07f62010a6fbc76&sce=60-2-2&rf=viewer_4" class="floatpic" width="300" height="200">
 
 其它作品：
 - [删减版纪录片《秋色巡游·盆菜宴》](https://player.bilibili.com/player.html?aid=1451540146)
@@ -38,5 +38,5 @@ cover: /assets/dinosaur.gif
 <img src="http://m.qpic.cn/psc?/V14drY4d2vzhRq/ruAMsa53pVQWN7FLK88i5tqvL0j6*dANSRy.BnizSxApb0Y87JcHY1*QAE8xpb*AZ0hR*YTp*CSQCZNlHaraN*vNhM.U5RyEHBxD3.aczQ4!/b&bo=uANmAgAAAAADB*0!&rf=viewer_4" class="floatpic" width="300" height="200"> <img src="http://m.qpic.cn/psc?/V14drY4d2vzhRq/ruAMsa53pVQWN7FLK88i5lT4i2lrKzT01X*NOjn67BUJnCQxs2vfpFZDE0aXtJKy4JZ9*P6iLuz9ecE4hawknDYlTPEovZkO5A9htzaOXWY!/b&bo=mwNiAgAAAAADB9o!&rf=viewer_4" class="floatpic" width="300" height="200"> <img src="http://m.qpic.cn/psc?/V14drY4d2vzhRq/ruAMsa53pVQWN7FLK88i5gwTKlGSWfdvCFzdMiaNvuxC82LeK6WlIbJ..cN*t9O5fATBDCWWgaJC9xJUnUE8EpjOGIDC5im22.q1FXqRJHs!/b&bo=mgNkAgAAAAADR50!&rf=viewer_4" class="floatpic" width="300" height="200"> <img src="http://m.qpic.cn/psc?/V14drY4d2vzhRq/ruAMsa53pVQWN7FLK88i5gwTKlGSWfdvCFzdMiaNvuzbEFkoVVNF.uS*.SoLMw91T3pFtyINOoC5n39uWRHsOexeHhz8AlYGsNozo4QPxAI!/b&bo=mwNkAgAAAAADR5w!&rf=viewer_4" class="floatpic" width="300" height="200"> <img src="http://m.qpic.cn/psc?/V14drY4d2vzhRq/ruAMsa53pVQWN7FLK88i5gwTKlGSWfdvCFzdMiaNvuw0Lqa7wVmAjF2psfB9O.YG2vCZNDgZAjNtY9lODA9ADxPlG256MPlBvomhMjwcKFc!/b&bo=mgNhAgAAAAADR5g!&rf=viewer_4" class="floatpic" width="300" height="200"> <img src="http://m.qpic.cn/psc?/V14drY4d2vzhRq/ruAMsa53pVQWN7FLK88i5gwTKlGSWfdvCFzdMiaNvuyNKLX8o.iw6HH2p1d.X*TeWQsiSrYiMgtooK377nfy4IgUUHUg0boC4vRif25*T*g!/b&bo=nwNlAgAAAAADV4k!&rf=viewer_4" class="floatpic" width="300" height="200">
 
 # 我的3D建模作品
-<img src="https://Lvbbin.github.io/assets/Blender/coffechair.png" class="floatpic" width="675" height="500">
+<img src="http://m.qpic.cn/psc?/V14drY4d2vzhRq/ruAMsa53pVQWN7FLK88i5tqvL0j6*dANSRy.BnizSxCiv1MnqeqqCgtfx*kwq3*8tikK5TWDle66eRgXML9WmKFB9RjxX87PCZ*Wq3Yrw3k!/b&bo=tAU4BAAAAAADZ88!&rf=viewer_4" class="floatpic" width="675" height="500">
 [点击下载工程文件](https://Lvbbin.github.io/assets/Blender/coffechair.blend)
