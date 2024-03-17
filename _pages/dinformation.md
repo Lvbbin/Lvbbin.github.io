@@ -12,7 +12,7 @@ cover: https://vip.helloimg.com/i/2024/03/17/65f711291f3b3.gif
 - [Jekyll](https://jekyll.com/)
 - [GitHub Pages](https://docs.github.com/zh/pages)
 - [Jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook)
-- [sm.ms](https://sm.ms/)
+- [Helloimg](http://helloimg.com/)
 
 ### 友情链接
 [<img src="https://shao.fun/images/logo.svg" class="floatpic" width="50" height="50">](https://shao.fun/) - 烧风，华南师范大学软件工程专业，SoCoding 软件协会会长，椰风游戏开发社社长，Manim Kindergarten成员
