@@ -2,7 +2,7 @@
 layout: home
 title: 蓠苇彬彬的个人小站
 permalink: /
-cover: https://s2.loli.net/2024/03/17/2ek7rng6MpWhFdE.gif
+cover: https://vip.helloimg.com/i/2024/03/17/65f711291f3b3.gif
 ---
 
 欢迎进入我的世界，此网站将展示有关于我的信息，
@@ -17,7 +17,7 @@ cover: https://s2.loli.net/2024/03/17/2ek7rng6MpWhFdE.gif
 
 普华永道ESG市场助理；Anchor Explorer 个人综合成绩第一；多次参与纪录片、宣传片拍摄。
 
-<img src="https://s2.loli.net/2024/03/17/hoXDCekYIl4zxvi.jpg" class="floatpic" width="240" height="288">
+<img src="https://vip.helloimg.com/i/2024/03/17/65f71128d57d9.jpg" class="floatpic" width="240" height="288">
 
 # 教育背景
 ### 华南师范大学                                                           全日制本科
