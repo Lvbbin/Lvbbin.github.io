@@ -38,5 +38,5 @@ cover: https://s2.loli.net/2024/03/17/2ek7rng6MpWhFdE.gif
 <img src="https://s2.loli.net/2024/03/17/U75LjX9zCMRTayk.png" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/DrWhg2jGIozUMOm.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/FXTZ9B3li4pPQwq.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/fCtxaeIdSRAhY8l.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/inQhYdJL7qsMfZV.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/dNOnMgtayjcYAuX.png" class="floatpic" width="300" height="200">
 
 # 我的3D建模作品
-<img src="https://s2.loli.net/2024/03/17/nxM94EQiGYI6pOC.png" class="floatpic" width="675" height="500">
-[点击下载工程文件](https://Lvbbin.github.io/assets/Blender/coffechair.blend)
+<img src="https://s2.loli.net/2024/03/17/nxM94EQiGYI6pOC.png" class="floatpic" width="675" height="500"> 
+ [点击下载工程文件](https://Lvbbin.github.io/assets/Blender/coffechair.blend)
