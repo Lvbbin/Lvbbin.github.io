@@ -4,7 +4,7 @@ author: 李炜斌
 date: 2024-03-09
 category: 我的创作
 layout: post
-cover: /assets/dinosaur.gif
+cover: https://s2.loli.net/2024/03/17/2ek7rng6MpWhFdE.gif
 ---
 
 # 我的视频创作
@@ -12,10 +12,10 @@ cover: /assets/dinosaur.gif
 代表作：
 
 - [3D实景合成MMD-寄明月](https://player.bilibili.com/player.html?aid=474434954&bvid=BV1zK411D7HU)
-<img src="http://m.qpic.cn/psc?/V14drY4d2vzhRq/ruAMsa53pVQWN7FLK88i5tqvL0j6*dANSRy.BnizSxBid8GJv.Ugsxdp01mnlmj5sl5MkRDG5gF7.gQTYJFukPGiDn8pxxhi7kWRo37CEcs!/b&bo=wAY4BAAAAAABF8o!&rf=viewer_4" class="floatpic" width="300" height="200">
+<img src="https://s2.loli.net/2024/03/17/Eva25qDXjOU1Yyn.jpg" class="floatpic" width="300" height="200">
 
 - [恐怖微电影《缚》](https://player.bilibili.com/player.html?aid=1301606004&bvid=BV1yu4m1u7Bu)
-<img src="http://a1.qpic.cn/psc?/V14drY4d2vzhRq/ruAMsa53pVQWN7FLK88i5tqvL0j6*dANSRy.BnizSxAiVEkNMRqtKIAHc3uDJ92J0.Ds4NDu1GPJhaDy.a3KQGYkIwqpvYm7SXpn6GhTSSw!/c&ek=1&kp=1&pt=0&bo=oAU4BAAAAAABF6k!&tl=3&vuin=2481487445&tm=1710684000&dis_t=1710685835&dis_k=eda34c056e9c4929c07f62010a6fbc76&sce=60-2-2&rf=viewer_4" class="floatpic" width="300" height="200">
+<img src="https://s2.loli.net/2024/03/17/KtSwLpT21xaoCAh.jpg" class="floatpic" width="300" height="200">
 
 其它作品：
 - [删减版纪录片《秋色巡游·盆菜宴》](https://player.bilibili.com/player.html?aid=1451540146)
@@ -38,5 +38,5 @@ cover: /assets/dinosaur.gif
 <img src="https://s2.loli.net/2024/03/17/U75LjX9zCMRTayk.png" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/DrWhg2jGIozUMOm.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/FXTZ9B3li4pPQwq.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/fCtxaeIdSRAhY8l.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/inQhYdJL7qsMfZV.png" class="floatpic" width="300" height="200"> <img src="https://s2.loli.net/2024/03/17/dNOnMgtayjcYAuX.png" class="floatpic" width="300" height="200">
 
 # 我的3D建模作品
-<img src="http://m.qpic.cn/psc?/V14drY4d2vzhRq/ruAMsa53pVQWN7FLK88i5tqvL0j6*dANSRy.BnizSxCiv1MnqeqqCgtfx*kwq3*8tikK5TWDle66eRgXML9WmKFB9RjxX87PCZ*Wq3Yrw3k!/b&bo=tAU4BAAAAAADZ88!&rf=viewer_4" class="floatpic" width="675" height="500">
+<img src="https://s2.loli.net/2024/03/17/nxM94EQiGYI6pOC.png" class="floatpic" width="675" height="500">
 [点击下载工程文件](https://Lvbbin.github.io/assets/Blender/coffechair.blend)
