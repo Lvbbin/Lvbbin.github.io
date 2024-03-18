@@ -102,7 +102,7 @@ UP 主起航计划是 B 站官方筛选优质视频创作者，通过 B 站官�
 
 - 基本媒体创作：Adobe Photoshop；Adobe PremiumPro；Adobe LightRoom；Adobe AfterEffect；DaVinci Resolve；NovelAi WebUI
 
-- 3D创作：Miku Miku Dance；Blender;Unity 3D（入门）
+- 3D创作：Miku Miku Dance；Blender; Unity 3D（入门）
 
 - 语言：Python；C#（入门）
 
