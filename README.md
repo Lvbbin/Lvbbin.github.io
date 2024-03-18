@@ -6,9 +6,13 @@ cover: https://vip.helloimg.com/i/2024/03/17/65f711291f3b3.gif
 ---
 
 欢迎进入我的世界，此网站将展示有关于我的信息，
+
+手机端可在左上角折叠处进行页面跳转，电脑端可在网页左侧跳转，或点击下方链接。
 - 查看我的[离线简历](https://Lvbbin.github.io/assets/CV.pdf)
-- 查看我的[创作作品](https://lvbbin.github.io/pages/acreation/) - 查看我的[联系方式](https://lvbbin.github.io/pages/bcontact/)
-- 查看我的[成长经历](https://lvbbin.github.io/pages/cexperience/) - 查看本站的[相关信息](https://lvbbin.github.io/pages/dinformation/)
+- 查看我的[创作作品](https://lvbbin.github.io/pages/acreation/)
+- 查看我的[联系方式](https://lvbbin.github.io/pages/bcontact/)
+- 查看我的[成长经历](https://lvbbin.github.io/pages/cexperience/)
+- 查看本站[相关信息](https://lvbbin.github.io/pages/dinformation/)
 
 # 基本信息
 
