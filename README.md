@@ -122,4 +122,9 @@ UP 主起航计划是 B 站官方筛选优质视频创作者，通过 B 站官�
   
 - 兴趣：弓箭、跑步、旅游、ACG、计算机技术、古生物、历史。
 
-
+# 本站更多页面：
+- 查看我的[离线简历](https://Lvbbin.github.io/assets/CV.pdf)
+- 查看我的[创作作品](https://lvbbin.github.io/pages/acreation/)
+- 查看我的[成长经历](https://lvbbin.github.io/pages/bexperience/)
+- 查看我的[联系方式](https://lvbbin.github.io/pages/ccontact/)
+- 查看本站[相关信息](https://lvbbin.github.io/pages/dinformation/)
