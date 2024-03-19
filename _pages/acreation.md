@@ -2,7 +2,7 @@
 title: 我的创作
 author: 李炜斌
 date: 2024-03-09
-category: 我的创作
+category: 
 layout: post
 cover: https://vip.helloimg.com/i/2024/03/17/65f711291f3b3.gif
 ---
