@@ -124,5 +124,5 @@ UP 主起航计划是 B 站官方筛选优质视频创作者，通过 B 站官�
 - 查看我的[创作作品](https://lvbbin.github.io/pages/acreation/)
 - 查看我的[成长经历](https://lvbbin.github.io/pages/bexperience/)
 - 查看我的[联系方式](https://lvbbin.github.io/pages/ccontact/)
-- 查看本站[博客文章](https://lvbbin.github.io/posts/blog/)
-- 查看本站[相关信息](https://lvbbin.github.io/posts/zinformation/)
+- 查看本站[博客文章](https://lvbbin.github.io/posts/2024-03-23-blog/)
+- 查看本站[相关信息](https://lvbbin.github.io/posts/2024-03-23-zinformation/)
