@@ -19,6 +19,7 @@ cover: https://vip.helloimg.com/i/2024/03/17/65f711291f3b3.gif
 <img src="https://vip.helloimg.com/i/2024/03/17/65f710c757ed2.jpg" class="floatpic" width="300" height="200">
 
 ### 其它作品
+- [许靖韵专访节选](https://v.douyin.com/iYUafjxU/)（负责拍摄、灯光、布景）
 - [删减版纪录片《秋色巡游·盆菜宴》](https://player.bilibili.com/player.html?aid=1451540146)
 - [40万播放量作品 原神七圣召唤](https://player.bilibili.com/player.html?aid=521232852&bvid=BV15M411U7te&cid=921341333&p=1)
 
@@ -38,6 +39,5 @@ cover: https://vip.helloimg.com/i/2024/03/17/65f711291f3b3.gif
 ### 公务活动照片
 <img src="https://vip.helloimg.com/i/2024/03/17/65f7104e75afa.png" width="300" height="200"> <img src="https://vip.helloimg.com/i/2024/03/17/65f7104e34a5e.png" class="floatpic" width="300" height="200"> <img src="https://vip.helloimg.com/i/2024/03/17/65f7105015d3f.png" class="floatpic" width="300" height="200"> <img src="https://vip.helloimg.com/i/2024/03/17/65f7104dcdb9d.png" class="floatpic" width="300" height="200"> <img src="https://vip.helloimg.com/i/2024/03/17/65f7104e86c6d.png" class="floatpic" width="300" height="200"> <img src="https://vip.helloimg.com/i/2024/03/17/65f7104e102a9.png" class="floatpic" width="300" height="200">
 
-# 我的3D建模作品
-<img src="https://vip.helloimg.com/i/2024/03/17/65f710c96eff2.png" class="floatpic" width="675" height="500"> 
-- [点击下载工程文件](https://Lvbbin.github.io/assets/Blender/coffechair.blend)
+# 我的3D作品（材质灯光渲染）
+<img src="https://vip.helloimg.com/i/2024/04/10/661621838b000.jpg" class="floatpic" width="960" height="540"> 
